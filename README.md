@@ -1,2 +1,2 @@
 # Coursera-test-repository
-John Hopkins HTML CSS Course
+Cousera HTML CSS Course
